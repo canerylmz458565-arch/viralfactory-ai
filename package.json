@@ -1,9 +1,0 @@
-{
-  "name": "viralfactory-ai",
-  "private": true,
-  "version": "0.0.0",
-  "scripts": {
-    "build": "echo build",
-    "start": "echo start"
-  }
-}
